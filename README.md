@@ -19,7 +19,7 @@
   ## Usage
   Once the user installs all dependencies and runs the application with `node employeeTracker.js`, they will be able to view all employees, departments and roles of te employees as well as add and remove departments, employees and roles.
 
-  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FTs2M3k8Kpo.jpg)](https://youtu.be/FTs2M3k8Kpo)
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FTs2M3k8Kpo/0.jpg)](http://www.youtube.com/watch?v=FTs2M3k8Kpo)
 
   ## Credits
   I would like to give credit to my tutor John Knowles https://github.com/jaknowles97.
