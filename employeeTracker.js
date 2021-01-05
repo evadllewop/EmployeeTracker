@@ -303,5 +303,3 @@ function removeRole() {
 
     });
 }
-
-////////////  UPDATE  ////////////
